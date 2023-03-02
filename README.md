@@ -4,8 +4,6 @@ Hi! I'm Nawaf ![](https://user-images.githubusercontent.com/18350557/176309783-0
 * 🌍  I'm based in New York City
 * ⚡  I love reading, coding, and anything related to data science😈
 * 🌱 I’m addicted to learning new technologies and growing day by day
-* Connect with me on:
-  - :office: [LinkedIn](https://www.linkedin.com/in/nawaff/)
 
 ### Skills
 
